@@ -23,6 +23,11 @@ class BankCard
 
     public function getInfo($cardNum)
     {
+        if(!is_numeric($cardNum))
+        {
+            throw new InvalidArgumentException('Invalid cardNum: '.$cardNum);
+        }
+
         $url = "https://ccdcapi.alipay.com/validateAndCacheCardInfo.json?_input_charset=utf-8&cardNo={$cardNum}&cardBinCheck=true";
 
         try{
