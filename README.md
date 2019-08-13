@@ -2,6 +2,7 @@
 
 <p align="center"> 银行卡信息获取、验证</p>
 
+![StyleCI build status](https://github.styleci.io/repos/202061186/shield) 
 
 ## Installing
 
