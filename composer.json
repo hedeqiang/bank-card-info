@@ -1,0 +1,26 @@
+{
+    "name": "hedeqiang\/bank-card-info",
+    "description": "Package description here.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hedeqiang",
+            "email": "laravel_code@163.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Hedeqiang\\BankCardInfo\\": "./src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Hedeqiang\\BankCardInfo\\ServiceProvider"
+            ]
+        }
+    }
+}
