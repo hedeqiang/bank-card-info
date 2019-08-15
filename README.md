@@ -38,7 +38,7 @@ var_dump($response);
 
 ## 在 Laravel 中使用
 
-可以用两种方式来获取 `Hedeqiang\Weather\Weather` 实例：
+可以用两种方式来获取 `Hedeqiang\BankCardInfo\BankCard` 实例：
 
 ### 方法参数注入
 ```shell
