@@ -2,7 +2,8 @@
 
 <p align="center"> 银行卡信息获取、验证</p>
 
-![StyleCI build status](https://github.styleci.io/repos/202061186/shield) 
+![StyleCI build status](https://github.styleci.io/repos/202061186/shield) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fhedeqiang%2Fbank-card-info.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fhedeqiang%2Fbank-card-info?ref=badge_shield)
+
 
 ## Installing
 
@@ -96,3 +97,5 @@ _The code contribution process is not very formal. You just need to make sure th
 ## License
 
 MIT
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fhedeqiang%2Fbank-card-info.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fhedeqiang%2Fbank-card-info?ref=badge_large)
